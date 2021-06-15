@@ -1,0 +1,61 @@
+body{
+	background-color: grey;
+	background-image: url(../images/fondo.jpg);
+}
+
+nav{
+	margin: 0 10%;
+}
+
+
+.menu li{
+	list-style: none;
+	color:#000;
+	display: inline;
+	background:#fff;
+	margin: 0 10px;
+	border-radius: 10px;
+	padding: 10px 10px 10px 10px;
+}
+
+#encabezado{
+	
+	color: black;
+	text-align: center;
+	border-radius:  10px;
+	width: 80%;
+	margin: 10px 10px;
+	padding: 10px 10px 10px 10px;
+ background-color:rgba(138,221,45,0.8);
+	
+}
+
+#piedepagina{
+	color:pink;
+	text-align: center;
+	border-radius: 10px;
+	width: 80%
+	margin: 30%;
+	height: 150px
+	background-color:rgba(138,221,45,0.8);
+	clear:both;
+	padding: 5px 5px 5px 5px;
+}
+
+#seccion1{
+	float: left;
+	width: 35%;
+	height: 350px;
+	margin: 0 0 0 10%;
+	background-color:rgba(138,221,45,0.8);
+	padding: 10px 10px 10px 10px;
+}
+
+#seccion2{
+	float: right;
+	width: 35%;
+	height: 350px;
+	margin: 0 10% 0 0;
+	background-color:rgba(138,221,45,0.8);
+	padding: 10px 10px 10px 10px;
+}
